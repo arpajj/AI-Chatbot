@@ -5,3 +5,5 @@
 ## How to use:
 
 __STEP 1__: Start by cloning the present repository by running: `git clone https://github.com/arpajj/AI-Chatbot.git`
+
+__STEP 2__: Install all the required packages from the [requirements file](./requirements.txt) by using: `pip install -r requirements.txt`.
