@@ -4,3 +4,4 @@
 
 ## How to use:
 
+__STEP 1__: Start by cloning the present repository by running: `git clone https://github.com/arpajj/AI-Chatbot.git`
