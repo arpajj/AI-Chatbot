@@ -24,7 +24,6 @@ def get_random_string(length):
 def create_mp3_file(mytext):   
     # Language in which you want to convert
     language = 'en'
-
     # Passing the text and language to the engine,
     # here we have marked slow=False. Which tells
     # the module that the converted audio should
@@ -33,7 +32,7 @@ def create_mp3_file(mytext):
     
     if(text_to_speech):
         # Saving the converted audio in a mp3 file named welcome
-        path = "C:/Users/yugio/Projects/MAIR/Chatbot/" 
+        path = "C:/Users/yugio/Projects/MAIR/Chatbot/audio_files/" 
         random_string = get_random_string(5)
         file = random_string + ".mp3"
         final_path = path + file 
