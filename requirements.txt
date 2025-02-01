@@ -1,0 +1,9 @@
+scikit-learn
+matplotlib
+textblob
+pyspellchecker
+Levenshtein
+gTTS
+pygame
+numpy
+pandas
