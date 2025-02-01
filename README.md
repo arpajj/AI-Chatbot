@@ -9,3 +9,5 @@ __STEP 1__: Start by cloning the present repository by running: `git clone https
 __STEP 2__: Install all the required packages from the [requirements file](./requirements.txt) by using: `pip install -r requirements.txt`.
 
 __STEP 3__: If you are only interested to test/talk to the AI-Chatbot you can run the file [chatting.py](./chatting.py), by executing `python chatting.py`. If you do so, you will be asked if you want to chat with the "normal Chatbot" ([Chatbot.py](./Chatbot.py)) or with a "shortened version of the Chatbot" ([Short_Chatbot.py](./Short_Chatbot.py)).  
+
+__STEP 4__: If you are also interested on exploring some statistical analysis on the data that the project used you can use the Runner.py
